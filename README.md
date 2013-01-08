@@ -1,4 +1,5 @@
-SampleNettyReplayingDecoder
-===========================
+Sample Netty ReplayingDecoder Implementation
+============================================
 
-Netty 4 Sample ReplayingDecoder
+* Uses Netty 4
+* Includes Client & Server Implementation
